@@ -1,0 +1,29 @@
+=========================
+firefox
+=========================
+
+インストール
+===============================
+
+インストーラーを `公式ページ`_. からダウンロード。
+
+.. _公式ページ: https://www.mozilla.org/ja/firefox/new/
+
+あとはインストーラーに沿って行けばOK。
+
+アドオン
+==========
+
+* 1Password
+* DownThemAll!
+* FireGestures
+* PushBuller
+* SQLite Manager
+* Vimperatro
+
+Vimperator command::
+
+    :history
+    
+    
+

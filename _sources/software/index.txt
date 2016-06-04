@@ -1,0 +1,12 @@
+==================
+ソフトウェア
+==================
+
+.. toctree::
+    :maxdepth: 2
+
+    git
+    foobar2000
+    firefox
+    vim
+

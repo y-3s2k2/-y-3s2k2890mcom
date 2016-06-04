@@ -1,0 +1,26 @@
+パソコン構築ガイド
+===================
+
+.. toctree::
+   :maxdepth: 2
+   :numbered:
+
+   project/index
+   hardware/index
+   software/index
+   records/index
+
+用語集・索引・検索
+==================
+
+.. toctree::
+    :hidden:
+
+    glossary
+    todo
+
+* :doc:`todo`
+* :doc:`glossary`
+* :ref:`genindex`
+* :ref:`modindex`
+* :ref:`search`

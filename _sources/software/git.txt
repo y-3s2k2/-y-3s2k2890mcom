@@ -1,0 +1,26 @@
+=========================
+git
+=========================
+
+インストール
+===============================
+
+Git-2.8.3-64-bit.exeを `公式ページ`_. からダウンロード。
+
+.. _公式ページ: https://git-scm.com/
+
+あとはインストーラーに沿って行けばOK。
+
+コマンド
+==========
+
+git command::
+
+    git status
+    git add
+    git commit
+    git branch
+    git checkout
+    git pull
+    
+
